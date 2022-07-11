@@ -27,11 +27,11 @@ Each First Name, Last Name, Address and Age sorted by Last Name then First Name 
 
 # Assumptions
 
-<ul> Data will be sent in a text file </ul>
+<ul> Data will be stored in a text file </ul>
 
 <ul> There will not be an empty file </ul>
 
-<ul> Tokens will be separated by commas, and enveloped in parenthesis </ul>
+<ul> Tokens will be separated by commas, and enveloped in parenthesis ("Dave", "Smith", "123 N 196th St", "Seattle", "WA", "35") </ul>
 
 <ul> Each address is considered a household </ul>
 
