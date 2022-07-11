@@ -1,0 +1,6 @@
+"Jane","McDowell","235 N 186th CT.","shoreline","wA","43"
+"Henry","McDowell","235 N 186th CT.","Shoreline","wA","36"....
+"Jacob", "Erickson", "163 n 186th CT", "Shoreline", "wa", "18",
+"Jacob", "Erickson", "163 n 186th CT", "Seattle", "wa", "18",
+"Jacob", "Erickson", "912 N 185th pl. Apt. 2012", "Seattle", "wa", "18",
+"Matthew", "Erickson", "912 N 185th PL Apt.. 2012", "Seattle", "wa", "20",
